@@ -1,4 +1,5 @@
 <h3> AjaxFileManager Auto Exploit </h3>
+<img src="screenshot.jpg">
 <ul>
   <li>Title: AjaxFileManager Auto Exploit</li>
   <li>Coded by: ceritarommy / @rommymaul</li>
